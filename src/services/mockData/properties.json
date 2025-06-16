@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "title": "Modern Downtown Loft",
+    "price": 875000,
+    "address": "123 Main Street, Unit 4B",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94102",
+    "propertyType": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "yearBuilt": 2018,
+    "description": "Stunning modern loft in the heart of downtown with floor-to-ceiling windows, exposed brick walls, and premium finishes throughout. The open-concept living space features a gourmet kitchen with stainless steel appliances and quartz countertops. Both bedrooms offer ample natural light and custom closet systems.",
+    "features": ["Hardwood Floors", "Stainless Steel Appliances", "In-Unit Laundry", "Parking Spot", "Gym Access", "Rooftop Deck"],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&h=600&fit=crop"
+    ],
+    "listingDate": "2024-01-15T10:00:00Z",
+    "status": "For Sale"
+  },
+  {
+    "Id": 2,
+    "title": "Charming Victorian Family Home",
+    "price": 1250000,
+    "address": "456 Oak Avenue",
+    "city": "Portland",
+    "state": "OR",
+    "zipCode": "97205",
+    "propertyType": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "yearBuilt": 1902,
+    "description": "Beautifully restored Victorian home with original character details and modern updates. Features include restored hardwood floors, period moldings, and updated kitchen and bathrooms. The spacious backyard includes mature landscaping and a deck perfect for entertaining.",
+    "features": ["Original Hardwood", "Updated Kitchen", "Period Details", "Large Backyard", "Deck", "Garage", "Walk-in Closets"],
+    "images": [
+      "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "listingDate": "2024-01-12T14:30:00Z",
+    "status": "For Sale"
+  },
+  {
+    "Id": 3,
+    "title": "Luxury Penthouse with Ocean Views",
+    "price": 3200000,
+    "address": "789 Pacific Coast Highway, PH1",
+    "city": "Malibu",
+    "state": "CA",
+    "zipCode": "90265",
+    "propertyType": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "squareFeet": 3500,
+    "yearBuilt": 2020,
+    "description": "Spectacular oceanfront penthouse with panoramic views of the Pacific Ocean. This luxury residence features floor-to-ceiling windows, a gourmet kitchen with top-of-the-line appliances, and a master suite with ocean views and spa-like bathroom. The expansive terrace is perfect for entertaining.",
+    "features": ["Ocean Views", "Floor-to-ceiling Windows", "Gourmet Kitchen", "Master Suite", "Terrace", "Concierge", "Beach Access", "Wine Cellar"],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688618-94e3eb56dbc4?w=800&h=600&fit=crop"
+    ],
+    "listingDate": "2024-01-10T09:15:00Z",
+    "status": "For Sale"
+  },
+  {
+    "Id": 4,
+    "title": "Cozy Suburban Ranch",
+    "price": 425000,
+    "address": "321 Maple Drive",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78704",
+    "propertyType": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "yearBuilt": 1975,
+    "description": "Well-maintained ranch-style home in a quiet neighborhood with mature trees. Recent updates include a renovated kitchen, new flooring throughout, and a beautifully landscaped backyard. Perfect for first-time homebuyers or those looking to downsize.",
+    "features": ["Updated Kitchen", "New Flooring", "Mature Trees", "Quiet Neighborhood", "Fenced Yard", "Carport", "Storage Shed"],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600563438938-a42a7e0ee8da?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "listingDate": "2024-01-08T16:45:00Z",
+    "status": "For Sale"
+  },
+  {
+    "Id": 5,
+    "title": "Contemporary Townhouse",
+    "price": 685000,
+    "address": "654 Pine Street",
+    "city": "Denver",
+    "state": "CO",
+    "zipCode": "80205",
+    "propertyType": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 2200,
+    "yearBuilt": 2019,
+    "description": "Modern three-story townhouse with an open floor plan and high-end finishes. Features include a rooftop deck with mountain views, attached garage, and energy-efficient appliances. Located in a vibrant neighborhood with easy access to downtown.",
+    "features": ["Rooftop Deck", "Mountain Views", "Attached Garage", "Energy Efficient", "Open Floor Plan", "High-end Finishes", "Walk to Downtown"],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752734-c8e1f2511da5?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "listingDate": "2024-01-05T11:20:00Z",
+    "status": "For Sale"
+  }
+]
